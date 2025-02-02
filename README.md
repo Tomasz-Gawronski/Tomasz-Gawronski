@@ -5,6 +5,8 @@
 ### 🚀 About Me  
 I am an aspiring robotics engineer and AI developer, currently gaining my first commercial experience in **Python programming** and **AI applications**. I am passionate about robotics and am eager to contribute to innovative projects in the field.  
 
+Currently, I am working on a cleaning robot designed to climb stairs.
+
 ### 🛠️ Technologies I'm Working With  
 - Python, C++
 - ROS2
